@@ -13,6 +13,7 @@
 
     <modules>
         <module>Lesson1</module>
+        <module>Lesson2</module>
     </modules>
 
     <properties>
